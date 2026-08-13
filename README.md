@@ -8,7 +8,7 @@ The application also includes **PWA (Progressive Web App)** functionality, allow
 
 🚀 Hosted with Vercel:
 
-https://weather-website.vercel.app
+https://weather-website-eta-gules.vercel.app
 
 
 ## ✨ Features
